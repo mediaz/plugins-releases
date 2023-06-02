@@ -1,0 +1,9 @@
+{
+    "name": "Cyclorama",
+    "releases": [
+        {
+            "version": "v0.1.0.b1",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/Cyclorama-vv0.1.0.b1/Cyclorama-v0.1.0.b1.zip"
+        }
+    ]
+}
