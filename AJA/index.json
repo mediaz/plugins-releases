@@ -2,6 +2,10 @@
     "name": "AJA",
     "releases": [
         {
+            "version": "0.1.0.b11",
+            "url": "mediaz/plugins-releases/releases/download/AJA-0.1.0.b11/AJA-0.1.0.b11.zip"
+        },
+        {
             "version": "0.1.0.b10",
             "url": "mediaz/plugins-releases/releases/download/AJA-0.1.0.b10/AJA-0.1.0.b10.zip"
         },
