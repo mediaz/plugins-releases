@@ -2,6 +2,10 @@
     "name": "mz.realitykeyer",
     "releases": [
         {
+            "version": "1.0.0.b11",
+            "url": "mediaz/plugins-releases/releases/download/mz.realitykeyer-1.0.0.b11/mz.realitykeyer-1.0.0.b11.zip"
+        },
+        {
             "version": "1.0.0.b10",
             "url": "mediaz/plugins-releases/releases/download/mz.realitykeyer-1.0.0.b10/mz.realitykeyer-1.0.0.b10.zip"
         },
