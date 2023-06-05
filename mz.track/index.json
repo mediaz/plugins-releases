@@ -2,6 +2,10 @@
     "name": "mz.track",
     "releases": [
         {
+            "version": "0.1.0.b10",
+            "url": "mediaz/plugins-releases/releases/download/mz.track-0.1.0.b10/mz.track-0.1.0.b10.zip"
+        },
+        {
             "version": "0.1.0.b9",
             "url": "mediaz/plugins-releases/releases/download/mz.track-0.1.0.b9/mz.track-0.1.0.b9.zip"
         },
