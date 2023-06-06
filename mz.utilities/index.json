@@ -1,0 +1,9 @@
+{
+    "name": "mz.utilities",
+    "releases": [
+        {
+            "version": "0.1.0.b20",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b20/mz.utilities-0.1.0.b20.zip"
+        }
+    ]
+}
