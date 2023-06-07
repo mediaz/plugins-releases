@@ -2,6 +2,10 @@
     "name": "mz.filters",
     "releases": [
         {
+            "version": "0.1.0.b24",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.0.b24/mz.filters-0.1.0.b24.zip"
+        },
+        {
             "version": "0.1.0.b23",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.0.b23/mz.filters-0.1.0.b23.zip"
         },
