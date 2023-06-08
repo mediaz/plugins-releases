@@ -2,6 +2,10 @@
     "name": "zd.frustum",
     "releases": [
         {
+            "version": "0.1.0.b28",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/zd.frustum-0.1.0.b28/zd.frustum-0.1.0.b28.zip"
+        },
+        {
             "version": "0.1.0.b26",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/zd.frustum-0.1.0.b26/zd.frustum-0.1.0.b26.zip"
         },
