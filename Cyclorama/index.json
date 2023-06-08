@@ -2,6 +2,10 @@
     "name": "Cyclorama",
     "releases": [
         {
+            "version": "0.1.0.b28",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/Cyclorama-0.1.0.b28/Cyclorama-0.1.0.b28.zip"
+        },
+        {
             "version": "0.1.0.b26",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/Cyclorama-0.1.0.b26/Cyclorama-0.1.0.b26.zip"
         },
