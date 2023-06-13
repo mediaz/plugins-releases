@@ -8,18 +8,6 @@
         {
             "version": "0.1.1.b31",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.math-0.1.1.b31/mz.math-0.1.1.b31.zip"
-        },
-        {
-            "version": "0.1.0.b28",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.math-0.1.0.b28/mz.math-0.1.0.b28.zip"
-        },
-        {
-            "version": "0.1.0.b23",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.math-0.1.0.b23/mz.math-0.1.0.b23.zip"
-        },
-        {
-            "version": "0.1.0.b20",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.math-0.1.0.b20/mz.math-0.1.0.b20.zip"
         }
     ]
 }
