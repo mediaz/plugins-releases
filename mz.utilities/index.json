@@ -2,6 +2,10 @@
     "name": "mz.utilities",
     "releases": [
         {
+            "version": "0.1.0.b46",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b46/mz.utilities-0.1.0.b46.zip"
+        },
+        {
             "version": "0.1.0.b45",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b45/mz.utilities-0.1.0.b45.zip"
         },
