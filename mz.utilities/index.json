@@ -3,51 +3,63 @@
     "releases": [
         {
             "version": "0.1.0.b60",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b60/mz.utilities-0.1.0.b60.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b60/mz.utilities-0.1.0.b60.zip",
+            "plugin_api_version": { "major": 3, "minor": 0, "patch": 0 }
         },
         {
             "version": "0.1.0.b54",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b54/mz.utilities-0.1.0.b54.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b54/mz.utilities-0.1.0.b54.zip",
+            "plugin_api_version": { "major": 3, "minor": 0, "patch": 0 }
         },
         {
             "version": "0.1.0.b53",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b53/mz.utilities-0.1.0.b53.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b53/mz.utilities-0.1.0.b53.zip",
+            "plugin_api_version": { "major": 2, "minor": 0, "patch": 0 }
         },
         {
             "version": "0.1.0.b51",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b51/mz.utilities-0.1.0.b51.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b51/mz.utilities-0.1.0.b51.zip",
+            "plugin_api_version": { "major": 2, "minor": 0, "patch": 0 }
         },
         {
             "version": "0.1.0.b50",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b50/mz.utilities-0.1.0.b50.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b50/mz.utilities-0.1.0.b50.zip",
+            "plugin_api_version": { "major": 2, "minor": 0, "patch": 0 }
         },
         {
             "version": "0.1.0.b47",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b47/mz.utilities-0.1.0.b47.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b47/mz.utilities-0.1.0.b47.zip",
+            "plugin_api_version": { "major": 2, "minor": 0, "patch": 0 }
         },
         {
             "version": "0.1.0.b46",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b46/mz.utilities-0.1.0.b46.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b46/mz.utilities-0.1.0.b46.zip",
+            "plugin_api_version": { "major": 2, "minor": 0, "patch": 0 }
         },
         {
             "version": "0.1.0.b45",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b45/mz.utilities-0.1.0.b45.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b45/mz.utilities-0.1.0.b45.zip",
+            "plugin_api_version": { "major": 2, "minor": 0, "patch": 0 }
         },
         {
             "version": "0.1.0.b42",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b42/mz.utilities-0.1.0.b42.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b42/mz.utilities-0.1.0.b42.zip",
+            "plugin_api_version": { "major": 1, "minor": 1, "patch": 0 }
         },
         {
             "version": "0.1.0.b40",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b40/mz.utilities-0.1.0.b40.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b40/mz.utilities-0.1.0.b40.zip",
+            "plugin_api_version": { "major": 1, "minor": 1, "patch": 0 }
         },
         {
             "version": "0.1.0.b36",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b36/mz.utilities-0.1.0.b36.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b36/mz.utilities-0.1.0.b36.zip",
+            "plugin_api_version": { "major": 1, "minor": 1, "patch": 0 }
         },
         {
             "version": "0.1.0.b34",
-            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b34/mz.utilities-0.1.0.b34.zip"
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b34/mz.utilities-0.1.0.b34.zip",
+            "plugin_api_version": { "major": 1, "minor": 1, "patch": 0 }
         }
     ]
 }
