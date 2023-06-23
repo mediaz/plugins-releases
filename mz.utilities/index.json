@@ -5,7 +5,7 @@
             "version": "0.1.0.b65",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-0.1.0.b65/mz.utilities-0.1.0.b65.zip",
             "plugin_api_version": {
-                "major": 3,
+                "major": 4,
                 "minor": 0,
                 "patch": 0
             }
