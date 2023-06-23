@@ -2,34 +2,63 @@
     "name": "mz.filters",
     "releases": [
         {
+            "version": "0.1.1.b65",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b65/mz.filters-0.1.1.b65.zip",
+            "plugin_api_version": "3.1.0"
+        },
+        {
             "version": "0.1.1.b60",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b60/mz.filters-0.1.1.b60.zip",
-            "plugin_api_version": { "major": 3, "minor": 0, "patch": 0 }
+            "plugin_api_version": {
+                "major": 3,
+                "minor": 0,
+                "patch": 0
+            }
         },
         {
             "version": "0.1.1.b54",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b54/mz.filters-0.1.1.b54.zip",
-            "plugin_api_version": { "major": 3, "minor": 0, "patch": 0 }
+            "plugin_api_version": {
+                "major": 3,
+                "minor": 0,
+                "patch": 0
+            }
         },
         {
             "version": "0.1.1.b50",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b50/mz.filters-0.1.1.b50.zip",
-            "plugin_api_version": { "major": 2, "minor": 0, "patch": 0 }
+            "plugin_api_version": {
+                "major": 2,
+                "minor": 0,
+                "patch": 0
+            }
         },
         {
             "version": "0.1.1.b46",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b46/mz.filters-0.1.1.b46.zip",
-            "plugin_api_version": { "major": 2, "minor": 0, "patch": 0 }
+            "plugin_api_version": {
+                "major": 2,
+                "minor": 0,
+                "patch": 0
+            }
         },
         {
             "version": "0.1.1.b40",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b40/mz.filters-0.1.1.b40.zip",
-            "plugin_api_version": { "major": 1, "minor": 1, "patch": 0 }
+            "plugin_api_version": {
+                "major": 1,
+                "minor": 1,
+                "patch": 0
+            }
         },
         {
             "version": "0.1.1.b31",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b31/mz.filters-0.1.1.b31.zip",
-            "plugin_api_version": { "major": 1, "minor": 1, "patch": 0 }
+            "plugin_api_version": {
+                "major": 1,
+                "minor": 1,
+                "patch": 0
+            }
         }
     ]
 }
