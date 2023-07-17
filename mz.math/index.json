@@ -2,6 +2,15 @@
     "name": "mz.math",
     "releases": [
         {
+            "version": "0.1.1.b98",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.math-0.1.1.b98/mz.math-0.1.1.b98.zip",
+            "plugin_api_version": {
+                "major": 7,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "0.1.1.b97",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.math-0.1.1.b97/mz.math-0.1.1.b97.zip",
             "plugin_api_version": {
