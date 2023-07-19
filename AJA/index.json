@@ -2,6 +2,15 @@
     "name": "AJA",
     "releases": [
         {
+            "version": "0.1.0.b106",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/AJA-0.1.0.b106/AJA-0.1.0.b106.zip",
+            "plugin_api_version": {
+                "major": 7,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "0.1.0.b105",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/AJA-0.1.0.b105/AJA-0.1.0.b105.zip",
             "plugin_api_version": {
