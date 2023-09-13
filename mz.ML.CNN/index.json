@@ -1,0 +1,14 @@
+{
+    "name": "mz.ML.CNN",
+    "releases": [
+        {
+            "version": "0.1.0.b165",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.ML.CNN-0.1.0.b165/mz.ML.CNN-0.1.0.b165.zip",
+            "plugin_api_version": {
+                "major": 11,
+                "minor": 1,
+                "patch": 0
+            }
+        }
+    ]
+}
