@@ -2,6 +2,15 @@
     "name": "mz.filters",
     "releases": [
         {
+            "version": "0.1.1.b236",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b236/mz.filters-0.1.1.b236.zip",
+            "plugin_api_version": {
+                "major": 15,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "0.1.1.b232",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.filters-0.1.1.b232/mz.filters-0.1.1.b232.zip",
             "plugin_api_version": {
