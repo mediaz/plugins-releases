@@ -1,0 +1,14 @@
+{
+    "name": "mz.WebRTC",
+    "releases": [
+        {
+            "version": "0.1.0.b236",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.WebRTC-0.1.0.b236/mz.WebRTC-0.1.0.b236.zip",
+            "plugin_api_version": {
+                "major": 15,
+                "minor": 0,
+                "patch": 0
+            }
+        }
+    ]
+}
