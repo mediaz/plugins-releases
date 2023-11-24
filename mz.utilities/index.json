@@ -2,6 +2,15 @@
     "name": "mz.utilities",
     "releases": [
         {
+            "version": "1.0.0.b246",
+            "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-1.0.0.b246/mz.utilities-1.0.0.b246.zip",
+            "plugin_api_version": {
+                "major": 15,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b237",
             "url": "https://github.com/mediaz/plugins-releases/releases/download/mz.utilities-1.0.0.b237/mz.utilities-1.0.0.b237.zip",
             "plugin_api_version": {
